@@ -1,5 +1,5 @@
 #!/bin/bash
-# /opt/panel/run.sh
+# /opt/panel2/run.sh
 
 cd /opt/panel2
 log_file="panel.log"
